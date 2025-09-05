@@ -1,0 +1,4 @@
+math_program
+*.o
+/.pytest_cache/
+/__pycache__/
